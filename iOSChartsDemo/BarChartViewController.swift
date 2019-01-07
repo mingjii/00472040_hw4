@@ -9,7 +9,7 @@
 import UIKit
 import Charts
 import Foundation
-//如果編譯出現錯誤，請先解壓縮charts.zip
+//如果編譯出現錯誤，請先解壓縮Charts.zip
 class BarChartViewController: UIViewController {
 
     @IBOutlet weak var barChartView: BarChartView!
